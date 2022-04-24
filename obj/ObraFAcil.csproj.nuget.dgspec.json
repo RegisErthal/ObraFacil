@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RegisErthalSellersFu\\source\\repos\\ObraFAcil\\ObraFAcil.csproj": {}
+    "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RegisErthalSellersFu\\source\\repos\\ObraFAcil\\ObraFAcil.csproj": {
+    "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RegisErthalSellersFu\\source\\repos\\ObraFAcil\\ObraFAcil.csproj",
+        "projectUniqueName": "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj",
         "projectName": "ObraFAcil",
-        "projectPath": "C:\\Users\\RegisErthalSellersFu\\source\\repos\\ObraFAcil\\ObraFAcil.csproj",
-        "packagesPath": "C:\\Users\\RegisErthalSellersFu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RegisErthalSellersFu\\source\\repos\\ObraFAcil\\obj\\",
+        "projectPath": "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj",
+        "packagesPath": "C:\\Users\\regis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\RegisErthalSellersFu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\regis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +44,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Blazorise.Bootstrap": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Blazorise.Icons.FontAwesome": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.3, )"
@@ -67,7 +75,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.3, 6.0.3]"
+              "version": "[6.0.4, 6.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -75,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
