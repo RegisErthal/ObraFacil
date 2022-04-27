@@ -1,4 +1,4 @@
-﻿namespace ObraFAcil.Models
+﻿namespace ObraFacil.Models
 {
     public class Projeto
     {
