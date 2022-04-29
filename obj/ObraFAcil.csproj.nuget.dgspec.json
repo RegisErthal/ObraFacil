@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj": {}
+    "C:\\Users\\regis\\source\\repos\\ObraFacil\\ObraFacil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj": {
+    "C:\\Users\\regis\\source\\repos\\ObraFacil\\ObraFacil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj",
-        "projectName": "ObraFAcil",
-        "projectPath": "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\ObraFAcil.csproj",
+        "projectUniqueName": "C:\\Users\\regis\\source\\repos\\ObraFacil\\ObraFacil.csproj",
+        "projectName": "ObraFacil",
+        "projectPath": "C:\\Users\\regis\\source\\repos\\ObraFacil\\ObraFacil.csproj",
         "packagesPath": "C:\\Users\\regis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\regis\\Source\\Repos\\ObraFacil\\obj\\",
+        "outputPath": "C:\\Users\\regis\\source\\repos\\ObraFacil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

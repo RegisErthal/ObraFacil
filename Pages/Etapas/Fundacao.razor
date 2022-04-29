@@ -1,23 +1,41 @@
 ﻿@page "/Fundacao"
+@using Models;
+<div>  
+    <EditForm Model="@fundacao">
+       
+         <label>Tamanho do alicerce em metros:</label>
+         <InputNumber class="form-control col-3" @bind-Value = "fundacao.TamanhoAlicerce" placeholder = "Informe do tamanho do alicerce em metros" />
 
-<div class="card">
-    
-    <label>Tamanho do alicerce em metros:</label>
-    <inputNumber id = "TamanhoAlicerce"  ></inputNumber>
+        <label>Informe as dimensões da pedra </label>
+        <label>Altura:</label>
+        <InputNumber class="form-control col-3" @bind-Value = "fundacao.AlturaPedra" placeholder = "Informe a altura "/>
+        <label>Largura:</label>
+        <InputNumber class="form-control col-3" @bind-Value = "fundacao.LarguraPedra" placeholder = "Informe a largura "/>
+        <label>Profundidade:</label>
+         <InputNumber class="form-control col-3" @bind-Value = "fundacao.ProfundidadePedra" placeholder = "Informe a profundidade "/>
 
-    <label>Dimensões da pedra :</label>
-    <inputNumber id = "TamanhoAlicerce"  ></inputNumber>
+        <label>Quantidade de estacas:</label>
+         <InputNumber class="form-control col-3" @bind-Value = "fundacao.QuantidadeEstacas" placeholder = "Informe a quantidade de estacas"/>
 
-    <label>Quantidade de estacass:</label>
-    <inputNumber id = "TamanhoAlicerce"  ></inputNumber>
+        <label>Informe as dimensões da viga baldrame</label> 
+        <label>Altura:</label> 
+        <InputNumber class="form-control col-3" @bind-Value = "fundacao.AlturaViga" placeholder = "Informe a altura da viga"/>
+        <label>Largura:</label> 
+        <InputNumber class="form-control col-3" @bind-Value = "fundacao.LarguraViga" placeholder = "Informe a largura da viga"/>
+        <label>Profundidade:</label> 
+        <InputNumber class="form-control col-3" @bind-Value = "fundacao.ProfundidadeViga" placeholder = "Informe a largura da viga"/>
 
-    <label>Dimensao da viga baldrame:</label>
-    <inputNumber id = "TamanhoAlicerce"  ></inputNumber>
-
-    <label>Data de previsao de entrega:</label>
-    <inputNumber id = "TamanhoAlicerce"  ></inputNumber>
-
-</div>
+        <label>Data de previsao de entrega:</label>
+        <InputDate class="form-control col-3" @bind-Value = "fundacao.PrevisaoEntrega" placeholder = "Previsao de entrega"/>
+    </EditForm>
+ </div>   
 @code {
 
+    public FundacaoModel fundacao { get; set; }
+
+
+    protected override void OnInitialized()
+    {
+        fundacao = new FundacaoModel();
+    }
 }

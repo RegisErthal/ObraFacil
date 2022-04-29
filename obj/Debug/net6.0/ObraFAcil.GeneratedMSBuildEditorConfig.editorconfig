@@ -9,71 +9,71 @@ build_property._SupportedPlatformList = browser
 build_property.EnableSingleFileAnalyzer = 
 build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
-build_property.RootNamespace = ObraFAcil
-build_property.RootNamespace = ObraFAcil
-build_property.ProjectDir = C:\Users\regis\Source\Repos\ObraFacil\
+build_property.RootNamespace = ObraFacil
+build_property.RootNamespace = ObraFacil
+build_property.ProjectDir = C:\Users\regis\source\repos\ObraFacil\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\regis\Source\Repos\ObraFacil
+build_property.MSBuildProjectDirectory = C:\Users\regis\source\repos\ObraFacil
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/App.razor]
+[C:/Users/regis/source/repos/ObraFacil/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Contato.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Contato.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGF0by5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Etapa.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Etapa.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXRhcGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Etapas/Alvenaria.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Etapas/Alvenaria.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXRhcGFzXEFsdmVuYXJpYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Etapas/Cobertura.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Etapas/Cobertura.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXRhcGFzXENvYmVydHVyYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Etapas/Eletrica.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Etapas/Eletrica.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXRhcGFzXEVsZXRyaWNhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Etapas/Fundacao.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Etapas/Fundacao.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXRhcGFzXEZ1bmRhY2FvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Etapas/Hidraulica.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Etapas/Hidraulica.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXRhcGFzXEhpZHJhdWxpY2EucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Index.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Projetos.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Projetos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamV0b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Pages/Sobre.razor]
+[C:/Users/regis/source/repos/ObraFacil/Pages/Sobre.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29icmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Shared/SurveyPrompt.razor]
+[C:/Users/regis/source/repos/ObraFacil/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/_Imports.razor]
+[C:/Users/regis/source/repos/ObraFacil/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/regis/Source/Repos/ObraFacil/Shared/MainLayout.razor]
+[C:/Users/regis/source/repos/ObraFacil/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-isgbw5ikxi
+build_metadata.AdditionalFiles.CssScope = b-wtlw4rym4s
 
-[C:/Users/regis/Source/Repos/ObraFacil/Shared/NavMenu.razor]
+[C:/Users/regis/source/repos/ObraFacil/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-lrfk5ohd8i
+build_metadata.AdditionalFiles.CssScope = b-6s1os0hb18
