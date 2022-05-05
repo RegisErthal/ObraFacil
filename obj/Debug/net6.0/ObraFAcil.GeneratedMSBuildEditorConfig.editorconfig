@@ -54,6 +54,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/regis/source/repos/ObraFacil/Pages/LoginPages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/regis/source/repos/ObraFacil/Pages/LoginPages/SignUp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlc1xTaWduVXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/regis/source/repos/ObraFacil/Pages/LoginPages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlc1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/regis/source/repos/ObraFacil/Pages/Projetos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamV0b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

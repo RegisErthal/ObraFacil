@@ -8,7 +8,7 @@ namespace ObraFacil.Models
     public class FundacaoModel
     {
         public int TamanhoAlicerce { get; set; }
-        public int AlturaPedra { get; set; }
+        public char AlturaPedra { get; set; }
         public int LarguraPedra { get; set; }
         public int ProfundidadePedra { get; set; }
         public int QuantidadeEstacas { get; set; }
@@ -17,6 +17,6 @@ namespace ObraFacil.Models
         public int LarguraViga { get; set; }
         public int ProfundidadeViga { get; set; }
         public int QuantidadeViga { get; set; }
-        public DateTime PrevisaoEntrega { get; set; }
+        public DateTime PrevisaoEntregaFundacao { get; set; }
     }
 }

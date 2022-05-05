@@ -1,41 +1,72 @@
 ﻿@page "/Fundacao"
+@using BlazorServerApp.Data
+@using BlazorServerApp.Services
+@using CuriousDriveRazorLibrary
+@using Blazored.LocalStorage
+@using BlazorServerApp.Shared
+@inject IBookStoresService<Author> bookStoresService
+@inject IUserService userService
+@inject ILocalStorageService localStorageService
+@inject IJSRuntime JSRuntime
+@implements IDisposable
 @using Models;
-<div>  
-    <EditForm Model="@fundacao">
-       
-         <label>Tamanho do alicerce em metros:</label>
-         <InputNumber class="form-control col-3" @bind-Value = "fundacao.TamanhoAlicerce" placeholder = "Informe do tamanho do alicerce em metros" />
+<div class="col-12">
+
+     <ServerValidations IsVisible="IsVisible" Result="Result">
+        @RecordName
+    </ServerValidations>
+    
+    <EditForm Model="@fundacao" OnValidSubmit="@SaveFundacao">
+        <div class="col-12 row">
+            <label class="col-2 font-weight-bold">Tamanho do alicerce em metros:</label>
+            <InputNumber class="form-control col-3" @bind-Value="fundacao.TamanhoAlicerce" placeholder="Informe do tamanho do alicerce em metros" />
+        </div>
 
         <label>Informe as dimensões da pedra </label>
         <label>Altura:</label>
-        <InputNumber class="form-control col-3" @bind-Value = "fundacao.AlturaPedra" placeholder = "Informe a altura "/>
+        <InputNumber class="form-control col-3" @bind-Value="fundacao.AlturaPedra" placeholder="Informe a altura " />
         <label>Largura:</label>
-        <InputNumber class="form-control col-3" @bind-Value = "fundacao.LarguraPedra" placeholder = "Informe a largura "/>
+        <InputNumber class="form-control col-3" @bind-Value="fundacao.LarguraPedra" placeholder="Informe a largura " />
         <label>Profundidade:</label>
-         <InputNumber class="form-control col-3" @bind-Value = "fundacao.ProfundidadePedra" placeholder = "Informe a profundidade "/>
+        <InputNumber class="form-control col-3" @bind-Value="fundacao.ProfundidadePedra" placeholder="Informe a profundidade " />
 
         <label>Quantidade de estacas:</label>
-         <InputNumber class="form-control col-3" @bind-Value = "fundacao.QuantidadeEstacas" placeholder = "Informe a quantidade de estacas"/>
+        <InputNumber class="form-control col-3" @bind-Value="fundacao.QuantidadeEstacas" placeholder="Informe a quantidade de estacas" />
 
-        <label>Informe as dimensões da viga baldrame</label> 
-        <label>Altura:</label> 
-        <InputNumber class="form-control col-3" @bind-Value = "fundacao.AlturaViga" placeholder = "Informe a altura da viga"/>
-        <label>Largura:</label> 
-        <InputNumber class="form-control col-3" @bind-Value = "fundacao.LarguraViga" placeholder = "Informe a largura da viga"/>
-        <label>Profundidade:</label> 
-        <InputNumber class="form-control col-3" @bind-Value = "fundacao.ProfundidadeViga" placeholder = "Informe a largura da viga"/>
+        <label>Informe as dimensões da viga baldrame</label>
+        <label>Altura:</label>
+        <InputNumber class="form-control col-3" @bind-Value="fundacao.AlturaViga" placeholder="Informe a altura da viga" />
+        <label>Largura:</label>
+        <InputNumber class="form-control col-3" @bind-Value="fundacao.LarguraViga" placeholder="Informe a largura da viga" />
+        <label>Profundidade:</label>
+        <InputNumber class="form-control col-3" @bind-Value="fundacao.ProfundidadeViga" placeholder="Informe a largura da viga" />
 
         <label>Data de previsao de entrega:</label>
-        <InputDate class="form-control col-3" @bind-Value = "fundacao.PrevisaoEntrega" placeholder = "Previsao de entrega"/>
+        <InputDate class="form-control col-3" @bind-Value="fundacao.PrevisaoEntregaFundacao" placeholder="Previsao de entrega" />
+
+        <div class="col-12 row">
+            <span class="col-2"></span>
+            <input type="submit" class="form-control col-1 btn btn-primary" value="Save" />
+            <span>&nbsp;</span>
+            <input type="submit" class="form-control col-1 btn btn-primary" value="Clear" />
+        </div>
     </EditForm>
- </div>   
+</div>
 @code {
 
+    public bool IsVisible { get; set; }
+    public bool Result { get; set; }
+    public string RecordName { get; set; }
+    bool isLoading = true;
+
     public FundacaoModel fundacao { get; set; }
-
-
     protected override void OnInitialized()
-    {
-        fundacao = new FundacaoModel();
-    }
+        {
+            fundacao = new FundacaoModel();
+        }
+   }
+   
 }
+
+
+

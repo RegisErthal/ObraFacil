@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Models",
     "\\Pages",
     "\\Pages\\Etapas",
     "\\wwwroot",
     "\\wwwroot\\css",
     "\\wwwroot\\css\\bootstrap"
   ],
-  "SelectedNode": "\\Models\\FundacaoModel (2).cs",
+  "SelectedNode": "\\ObraFacil.sln",
   "PreviewInSolutionExplorer": false
 }
