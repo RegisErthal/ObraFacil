@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGFkP2bf/VxlS8yKo0r89289QWkj80biKooHo3PnSt9GP/z+p7n/YZC5HT+aAvBbl+TKKm1Vy7Miw/39ToNdqQ==",
+  "dgSpecHash": "TxrEqIE3gbZCAoPZJa9yiumrdMp6FfjguSvSxZ7HXXKthz9HgGI4h1tPlTEi/Md3sJMc885p2i1+KepzfauXTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\regis\\source\\repos\\ObraFacil\\ObraFacil.csproj",
+  "projectFilePath": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\ObraFacil.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\regis\\.nuget\\packages\\blazorise\\1.0.4\\blazorise.1.0.4.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\blazorise.bootstrap\\1.0.4\\blazorise.bootstrap.1.0.4.nupkg.sha512",
@@ -15,6 +15,12 @@
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.3\\microsoft.aspnetcore.components.webassembly.6.0.3.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.3\\microsoft.aspnetcore.components.webassembly.devserver.6.0.3.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.3\\microsoft.aspnetcore.metadata.6.0.3.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
@@ -31,12 +37,15 @@
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.jsinterop\\6.0.3\\microsoft.jsinterop.6.0.3.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.3\\microsoft.jsinterop.webassembly.6.0.3.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.1\\pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
+    "C:\\Users\\regis\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\regis\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\regis\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.4.nupkg.sha512"
+    "C:\\Users\\regis\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.5.nupkg.sha512"
   ],
   "logs": []
 }
