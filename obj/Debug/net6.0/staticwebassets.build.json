@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a72QiV5vlMECQzUh9w8EJdSzEH4qAdy8L+bOkf5tJjw=",
+  "Hash": "zLy6iekqT0N6C/7BSNgTxwi51V1zBCJCsgTCZBkmyN8=",
   "Source": "ObraFacil",
   "BasePath": "/",
   "Mode": "Root",
@@ -748,6 +748,23 @@
       "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Humanizer.dll",
+      "SourceId": "ObraFacil",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Humanizer.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "false",
+      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\humanizer.core\\2.8.26\\lib\\netstandard2.0\\Humanizer.dll"
+    },
+    {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
       "SourceId": "ObraFacil",
       "SourceType": "Computed",
@@ -949,7 +966,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Design.dll",
+      "SourceId": "ObraFacil",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Design.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "false",
+      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.5\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Design.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll",
@@ -966,7 +1000,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\lib\\net6.0\\Microsoft.EntityFrameworkCore.dll"
+      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\lib\\net6.0\\Microsoft.EntityFrameworkCore.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll",
@@ -983,7 +1017,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Relational.dll"
+      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.5\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Relational.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Abstractions.dll",
@@ -1017,7 +1051,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Caching.Memory.dll"
+      "OriginalItemSpec": "C:\\Users\\regis\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\lib\\netstandard2.0\\Microsoft.Extensions.Caching.Memory.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll",
@@ -4233,6 +4267,23 @@
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Formats.Asn1.dll"
     },
     {
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\+ORKYkt2.gz",
+      "SourceId": "ObraFacil",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Relational.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll"
+    },
+    {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\+t3BmJPi.gz",
       "SourceId": "ObraFacil",
       "SourceType": "Computed",
@@ -4318,21 +4369,21 @@
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll"
     },
     {
-      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\1e0Qn4fQ.gz",
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\0nFD+v9i.gz",
       "SourceId": "ObraFacil",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Abstractions.dll.gz",
+      "RelativePath": "_framework/Humanizer.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Humanizer.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll"
+      "CopyToPublishDirectory": "false",
+      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Humanizer.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\1qOM9DRR.gz",
@@ -4673,6 +4724,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.HttpListener.dll"
+    },
+    {
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\79ffWKet.gz",
+      "SourceId": "ObraFacil",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Caching.Memory.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\7DY+xNs4.gz",
@@ -5389,6 +5457,23 @@
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll"
     },
     {
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\EHXZPTDB.gz",
+      "SourceId": "ObraFacil",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\EKpWl7Y6.gz",
       "SourceId": "ObraFacil",
       "SourceType": "Computed",
@@ -5525,6 +5610,23 @@
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.dll"
     },
     {
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\ggHBHSU4.gz",
+      "SourceId": "ObraFacil",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll"
+    },
+    {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\ggnDu5Cr.gz",
       "SourceId": "ObraFacil",
       "SourceType": "Computed",
@@ -5642,23 +5744,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.dll"
-    },
-    {
-      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\hLDP0E9g.gz",
-      "SourceId": "ObraFacil",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Caching.Memory.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\Hty19gdl.gz",
@@ -6256,6 +6341,23 @@
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.dll"
     },
     {
+      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\Mw5A1d+l.gz",
+      "SourceId": "ObraFacil",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Design.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Design.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "false",
+      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Design.dll"
+    },
+    {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\MwdVKd9X.gz",
       "SourceId": "ObraFacil",
       "SourceType": "Computed",
@@ -6832,23 +6934,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.dll"
-    },
-    {
-      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\TjU8JcZP.gz",
-      "SourceId": "ObraFacil",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Relational.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\ttsPgUTY.gz",
@@ -7614,23 +7699,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Linq.dll"
-    },
-    {
-      "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\yQRJawQk.gz",
-      "SourceId": "ObraFacil",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll"
     },
     {
       "Identity": "C:\\Users\\regis\\OneDrive\\Documentos\\GitHub\\ObraFacil\\obj\\Debug\\net6.0\\build-gz\\yunsVvNu.gz",
