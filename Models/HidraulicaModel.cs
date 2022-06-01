@@ -7,16 +7,9 @@ namespace ObraFacil.Models
 {
     public class HidraulicaModel
     {
-        public int TamanhoAlicerce { get; set; }
-        public int AlturaPedra { get; set; }
-        public int LarguraPedra { get; set; }
-        public int ProfundidadePedra { get; set; }
-        public int QuantidadeEstacas { get; set; }
-        public int BarrasFerro { get; set; }
-        public int AlturaViga { get; set; }
-        public int LarguraViga { get; set; }
-        public int ProfundidadeViga { get; set; }
-        public int QuantidadeViga { get; set; }
-        public DateTime PrevisaoEntrega { get; set; }
+        public int Quantidadetorneiras { get; set; }
+        public int QuantidadeChuveiros { get; set; }
+        public int QuantidadeSaidasEsgoto { get; set; }
+        public DateTime PrevisaoEntregaAlvenaria { get; set; }
     }
 }
