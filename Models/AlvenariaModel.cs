@@ -7,16 +7,14 @@ namespace ObraFacil.Models
 {
     public class AlvenariaModel
     {
-        public int TamanhoAlicerce { get; set; }
-        public int AlturaPedra { get; set; }
-        public int LarguraPedra { get; set; }
-        public int ProfundidadePedra { get; set; }
-        public int QuantidadeEstacas { get; set; }
-        public int BarrasFerro { get; set; }
-        public int AlturaViga { get; set; }
-        public int LarguraViga { get; set; }
-        public int ProfundidadeViga { get; set; }
-        public int QuantidadeViga { get; set; }
-        public DateTime PrevisaoEntrega { get; set; }
+        public int TamanhoParedes { get; set; }
+        public int AlturaBloco { get; set; }
+        public int LarguraBloco { get; set; }
+        public int ProfundidadeBloco { get; set; }
+        public int QuantidadePilares { get; set; }
+        public int AlturaPilar { get; set; }
+        public int LarguraPilar { get; set; }
+        public int ProfundidadePilar { get; set; }
+        public DateTime PrevisaoEntregaAlvenaria { get; set; }
     }
 }
