@@ -1,0 +1,12 @@
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\bin\Debug\net6.0\ObraFacil.Domain.deps.json
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\bin\Debug\net6.0\ObraFacil.Domain.dll
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\bin\Debug\net6.0\ObraFacil.Domain.pdb
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ObraFacil.Domain.csproj.AssemblyReference.cache
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ObraFacil.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ObraFacil.Domain.AssemblyInfoInputs.cache
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ObraFacil.Domain.AssemblyInfo.cs
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ObraFacil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ObraFacil.Domain.dll
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\refint\ObraFacil.Domain.dll
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ObraFacil.Domain.pdb
+C:\Users\regis\OneDrive\Documentos\GitHub\ObraFacil\ObraFacil.Domain\obj\Debug\net6.0\ref\ObraFacil.Domain.dll

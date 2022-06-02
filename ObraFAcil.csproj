@@ -7,24 +7,35 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ObraFacil.Domain\**" />
+    <Compile Remove="ObraFacil.Infra\**" />
+    <Content Remove="ObraFacil.Domain\**" />
+    <Content Remove="ObraFacil.Infra\**" />
+    <EmbeddedResource Remove="ObraFacil.Domain\**" />
+    <EmbeddedResource Remove="ObraFacil.Infra\**" />
+    <None Remove="ObraFacil.Domain\**" />
+    <None Remove="ObraFacil.Infra\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Blazorise.Bootstrap" Version="1.0.4" />
     <PackageReference Include="Blazorise.Icons.FontAwesome" Version="1.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="6.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.3" PrivateAssets="all" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.5">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.5">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Shared\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="ObraFacil.Domain\ObraFacil.Domain.csproj" />
+    <ProjectReference Include="ObraFacil.Infra\ObraFacil.Infra.csproj" />
   </ItemGroup>
 
 </Project>

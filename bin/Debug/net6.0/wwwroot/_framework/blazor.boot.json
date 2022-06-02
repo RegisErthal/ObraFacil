@@ -208,13 +208,13 @@
       "mscorlib.dll": "sha256-ghlJNtzzYlKIliGPuf0A0Yu6dmLycSx3F9uyeddFb\/g=",
       "netstandard.dll": "sha256-qpOz\/RBwhlIYfaE2GDEmjiproxkvSf2b9GeqHxvH+lg=",
       "System.Private.CoreLib.dll": "sha256-sfzSZ3YKC2rpF77TVOKLuPgQag93QXr9U4AUc9d\/LKA=",
-      "ObraFacil.dll": "sha256-ZDiZ2hgSsBa5pXQXdhQ+WveWSVJmiI9qFQ6L8c5CXQo="
+      "ObraFacil.dll": "sha256-DYhjPZRdIjJsNZ7S5JaZy01vpl4ONfTYFRawufzKl+E="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ObraFacil.pdb": "sha256-X1YKkzrH+diwLP4GUaCjrXzp4+e3eTotIMGmN+j3a4M="
+      "ObraFacil.pdb": "sha256-4VbLNtc92fc4wMXIsb1ErvRTQuTG7AnBWIvaLC7oPLI="
     },
     "runtime": {
       "dotnet.6.0.5.dd4bofps6l.js": "sha256-783uOt0jgblQfP6Yz5TJeuW2xxtl6UHZQPngZtCz79U=",
